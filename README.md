@@ -1,5 +1,5 @@
 # Android-Club-Activity-2-React-Navigation-Basics
-Code for the basic react navigators and a video demo
+Code for the basic react navigators (stack, tab and drawer) and a video demo
 
 ScreenShots:
 
